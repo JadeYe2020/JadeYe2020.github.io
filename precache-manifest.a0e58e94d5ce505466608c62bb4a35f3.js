@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d339831253794014754a10f2be5f63d0",
+    "revision": "d57fe7245c98c93a58c261cc08efea9c",
     "url": "/index.html"
   },
   {
-    "revision": "20e4008121cf352220fd",
+    "revision": "c29ef03c015773cdfdb1",
     "url": "/static/css/3.fb68ec33.chunk.css"
   },
   {
-    "revision": "187575bd42222abaade5",
+    "revision": "26e9c55ef1be5534d475",
     "url": "/static/css/4.84e885c7.chunk.css"
   },
   {
-    "revision": "cf4ef3df41e6b7f214bf",
+    "revision": "53ddd042a025959fdb2c",
     "url": "/static/css/main.f2aabfb5.chunk.css"
   },
   {
-    "revision": "44b748fb40cf4f31b111",
-    "url": "/static/js/2.0398d4b4.chunk.js"
+    "revision": "b36fcfbd5b3af6be5472",
+    "url": "/static/js/2.74c5b0d8.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.0398d4b4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.74c5b0d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20e4008121cf352220fd",
-    "url": "/static/js/3.16793b35.chunk.js"
+    "revision": "c29ef03c015773cdfdb1",
+    "url": "/static/js/3.9e717703.chunk.js"
   },
   {
-    "revision": "187575bd42222abaade5",
-    "url": "/static/js/4.aa2ec175.chunk.js"
+    "revision": "26e9c55ef1be5534d475",
+    "url": "/static/js/4.2b92f044.chunk.js"
   },
   {
-    "revision": "cf4ef3df41e6b7f214bf",
-    "url": "/static/js/main.5c2ffc0b.chunk.js"
+    "revision": "53ddd042a025959fdb2c",
+    "url": "/static/js/main.49bae1be.chunk.js"
   },
   {
-    "revision": "efad7450b090f75739af",
-    "url": "/static/js/runtime-main.277d506d.js"
+    "revision": "6f158201448bfbc9a9a4",
+    "url": "/static/js/runtime-main.64ebcfea.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "78f7fcb994b2d4b54e5c408067b5061f",
     "url": "/static/media/SYSU.78f7fcb9.jfif"
+  },
+  {
+    "revision": "07a11ca687be12305b6835a366ddc3a0",
+    "url": "/static/media/Screenshot-Find_Your_Exercises-cropped.07a11ca6.png"
   },
   {
     "revision": "48e5a96593d9a33e59a8145d61f14b54",
@@ -76,20 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
-    "revision": "829ad0a1deef4d7295adfecdf12df2be",
-    "url": "/static/media/nextuLogo.829ad0a1.webp"
-  },
-  {
     "revision": "f5b2b52a1ad390be4f01a8752a94db10",
     "url": "/static/media/nscc-logo.f5b2b52a.jpg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
